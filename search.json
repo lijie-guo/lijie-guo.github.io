@@ -205,42 +205,42 @@
   {
     "objectID": "code.html",
     "href": "code.html",
-    "title": "Software & Codes",
+    "title": "Software & Code",
     "section": "",
     "text": "This page provides software tools, code repositories, and data analysis workflows developed for hydrological and agricultural research."
   },
   {
     "objectID": "code.html#research-areas",
     "href": "code.html#research-areas",
-    "title": "Software & Codes",
+    "title": "Software & Code",
     "section": "Research Areas",
     "text": "Research Areas\n\nHydrological Modelling\nAgricultural Hydrology\nCrop Modelling\nDrought Assessment and Prediction\nClimate Change Impact Assessment\nPrecision Agriculture"
   },
   {
     "objectID": "code.html#programming-languages",
     "href": "code.html#programming-languages",
-    "title": "Software & Codes",
+    "title": "Software & Code",
     "section": "Programming Languages",
     "text": "Programming Languages\n\nR\nMATLAB\nPython"
   },
   {
     "objectID": "code.html#modelling-platforms",
     "href": "code.html#modelling-platforms",
-    "title": "Software & Codes",
+    "title": "Software & Code",
     "section": "Modelling Platforms",
     "text": "Modelling Platforms\n\nCRHM (Cold Regions Hydrological Model)\nSHAW (Simultaneous Heat and Water Model)\nDAISY\nAquaCrop\nGIS and Remote Sensing Tools"
   },
   {
     "objectID": "code.html#github",
     "href": "code.html#github",
-    "title": "Software & Codes",
+    "title": "Software & Code",
     "section": "GitHub",
     "text": "GitHub\nGitHub repositories are available at:\n\nhttps://github.com/lijie-guo"
   },
   {
     "objectID": "code.html#selected-projects",
     "href": "code.html#selected-projects",
-    "title": "Software & Codes",
+    "title": "Software & Code",
     "section": "Selected Projects",
     "text": "Selected Projects\n\nCrop Modelling with DAISY\nSimulation and evaluation of crop growth, soil water dynamics, and climate adaptation strategies.\n\n\nHydrological Data Analysis\nLarge-sample hydrology datasets and drought prediction studies using R, Python, and MATLAB.\n\n\nAgricultural Water Management\nTools for irrigation analysis, water-use efficiency assessment, and decision support with the principal component analysis (PCA), the technique for order preference by simi- larity to an ideal solution (TOPSIS), and the analysis of variance (ANOVA)."
   }
